@@ -1,0 +1,5 @@
+scaleway/debian:x86_64-buster
+scaleway/debian:x86_64-10.0
+scaleway/debian:x86_64-10
+scaleway/debian:x86_64-testing
+scaleway/debian:x86_64-buster-2018-11-19
